@@ -1,1 +1,1 @@
-"Using streamlit run app.py to run project" 
+"Using command 'streamlit run app.py' to run project" 
